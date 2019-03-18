@@ -3,7 +3,7 @@ Reporte Numero 3: Simulador de memoria
 
 Materia: SISTEMAS OPERATIVOS
 
-Autores: Andres Ponce - Erik Solis
+Autor: Erik Solis
 
 Lenguaje: Python 3
 
